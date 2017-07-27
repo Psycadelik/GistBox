@@ -1,4 +1,4 @@
-A ReactJS App to fetch all the gists from any Github user
+A ReactJS App to fetch all the latest gists from any Github user
 
 How to use:
 
